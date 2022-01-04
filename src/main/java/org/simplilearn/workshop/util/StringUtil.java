@@ -1,4 +1,4 @@
-package org.simplilearn.workshop.util;
+package org.simplilearn.work.util;
 
 public class StringUtil {
 	public static String fixSqlFieldValue(String value) {
